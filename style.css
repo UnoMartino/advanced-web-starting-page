@@ -1,0 +1,162 @@
+body
+{
+    background-color: #303030;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+#container
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.rectangle
+{
+    width: 960px;
+    margin: 20px;
+}
+
+.square
+{
+    width: 50%;
+    float: left;
+
+}
+
+#logo
+{
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+
+
+.tile1
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #33e0ff;
+    float: left;
+    text-align: center;
+}
+
+.tile1:hover
+{
+    background-color: #22d0ee ;
+}
+
+.tile2
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #67ff02;
+    float: left;
+    text-align: center;
+}
+
+.tile2:hover
+{
+    background-color: #56ee01;
+}
+
+.tile3:hover
+{
+    background-color: #eec000 ;
+}
+
+.tile3
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #ffd000;
+    float: left;
+    text-align: center;
+}
+
+.tile4
+{
+    margin: 10px;
+    width: 480px;
+    height: 142px;
+    background-color: #ff3300;
+    float: left;
+    text-align: center;
+}
+
+.tile5
+{
+    margin: 10px;
+    width: 480px;
+    height: 304px;
+    background-color: #666666;
+    text-align: center;
+    
+}
+
+.yt
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #ff0000;
+    float: left;
+    text-align: center;
+}
+
+.yt:hover
+{
+    background-color: #ee0000;
+}
+
+.insta
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #8a3ab9;
+    float: left;
+    text-align: center;
+}
+
+.insta:hover
+{
+    background-color: #7929a8;
+}
+
+.rectangle
+{
+  text-align: center;
+  
+}
+
+a.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+
+#python
+{
+    width: 1000px;
+    background-color: #606060;
+    
+}
+
+#logout
+{
+    float: right;
+}
